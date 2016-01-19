@@ -10,9 +10,3 @@ rand = "~0.3.13"
 rustc-serialize = "~0.3.16"
 serde = "~0.6.7"
 serde_macros = "~0.6.5"
-
-[features]
-use_rustc_serialize = []
-use_serde = []
-use_cbor = []
-use_bincode = []
